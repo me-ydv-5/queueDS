@@ -6,3 +6,6 @@ for 'make' in second code,change your directory to the folder that contains the 
 The pictorial representation of the problems and codes is given in 'slides.pdf' file.
 Also the complete assignment problem is given in 
 'assignment.pdf' file.
+
+
+Here's a video explaining this: https://www.youtube.com/watch?v=wS1gnLEFDhc 
